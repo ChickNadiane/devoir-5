@@ -1,3 +1,6 @@
+body {
+background-image: url(/wpid-Dag-Heward-Mills1\ 4.jpg);
+}
 h3{
     font-size: larger;
     font-weight: bold;
@@ -8,7 +11,7 @@ h3{
     margin-left: 25%;
     margin-top: 5%;
     margin-bottom: 5%;
-    
+    flood-opacity: 20%;
 }
 
 .col-4{
@@ -57,9 +60,9 @@ input{
 button{
     font-size: larger;
     font-weight: bold;
-    padding: 20px;
+    padding: 25px;
     display: flex;
-    margin-left: 110%;
+    margin-left: 46%;
     border: none;
     border-color: white;
     background-color: blue;
